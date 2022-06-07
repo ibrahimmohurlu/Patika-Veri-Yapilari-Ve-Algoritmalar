@@ -1,4 +1,4 @@
-# Proje 1 Insertion Sort
+# Proje 1 Insertion Sort [Patika](https://patika.dev)
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 
