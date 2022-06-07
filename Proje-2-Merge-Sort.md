@@ -1,4 +1,4 @@
-# Proje-2
+# Proje 1 Merge Sort [Patika](https://patika.dev)
 ### [16,21,11,8,12,22] -> Merge Sort
 
 #### 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
